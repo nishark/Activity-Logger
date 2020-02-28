@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Logger</string>
+    <string name="title_checkin">Checkin</string>
+    <string name="title_history">History</string>
+    <string name="title_heat">Heat</string>
+    <string name="title_survey">Survey</string>
+
+
+</resources>
